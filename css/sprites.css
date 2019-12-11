@@ -1,0 +1,4 @@
+.icon {display: inline-block; background-image: url(./sprites.png); background-size: 70.5px 59px;}
+.icon-aliPa { width: 37px; height: 36.5px; background-position: 0px 0px;}
+.icon-arrow { width: 37px; height: 20px; background-position: 0px -39px;}
+.icon-bag { width: 31px; height: 35px; background-position: -39.5px 0px;}

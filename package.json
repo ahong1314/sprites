@@ -1,0 +1,20 @@
+{
+  "name": "sprites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "author": "hank",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "imagemin-webpack-plugin": "^2.4.2",
+    "webpack-spritesmith": "^1.0.2"
+  }
+}
